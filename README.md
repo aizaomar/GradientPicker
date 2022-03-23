@@ -1,3 +1,3 @@
 # GradientPicker
 - API
-- 
+- Grids 
